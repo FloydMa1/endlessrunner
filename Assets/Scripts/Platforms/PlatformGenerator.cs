@@ -5,15 +5,20 @@ using UnityEngine;
 public class PlatformGenerator : MonoBehaviour
 {
     [SerializeField] private GameObject thePlatform;
+    [SerializeField] private Biome stoneBiome, castleBiome, corruptionBiome, snowDirtBiome;
     [SerializeField] private Transform generationPoint;
     [SerializeField] private float distancBetween;
     [SerializeField] private float distanceBetweenMin;
     [SerializeField] private float distanceBetweenMax;
-    [SerializeField] private GameObject[] thePlatforms;
+
+    [SerializeField]private GameObject player;
+    playerMovement movement;
+
+    [SerializeField] private GameObject[] thePlatformsGrass;
    
     private int platformSelector;
     //private float platformWidth;
-    private float[] platformWidths;
+    private Platforms[] platforms;
 
     private float minHeight;
     [SerializeField]
@@ -24,16 +29,24 @@ public class PlatformGenerator : MonoBehaviour
     private float heightChange;
 
     
+    [SerializeField]
+    private float randomSpike;
+    [SerializeField]
+    private GameObject spike;
+    
+    
     private void Start()
     {
-        //platformWidth = thePlatform.GetComponent<BoxCollider2D>().size.x;
-        
-        platformWidths = new float[thePlatforms.Length];
+        movement = player.GetComponent<playerMovement>();
 
-        for (int i = 0; i < thePlatforms.Length; i++)
+
+        platforms = new Platforms[thePlatformsGrass.Length];// = new float[thePlatformsGrass.Length];
+
+        for (int i = 0; i < thePlatformsGrass.Length; i++)
         {
-            print(thePlatforms[i].transform.localScale);
-            platformWidths[i] = thePlatforms[i].transform.localScale.x;
+            print(thePlatformsGrass[i].transform.localScale);
+            platforms[i].width = thePlatformsGrass[i].GetComponent<BoxCollider2D>().size.x;
+            platforms[i].platform = thePlatformsGrass[i];
         }
 
         minHeight = transform.position.y;
@@ -44,22 +57,58 @@ public class PlatformGenerator : MonoBehaviour
     private void Update()
     {
         if (!(transform.position.x < generationPoint.position.x)) return;
-        transform.position = new Vector3(transform.position.x + platformWidths[platformSelector] + distancBetween, heightChange,
+        transform.position = new Vector3(transform.position.x + platforms[platformSelector].width + distancBetween, heightChange,
             transform.position.z);
+
+        if (movement.speedMilestoneCount > 200)
+            BlockBiome.SetBlockSprite(snowDirtBiome);
+        if (movement.speedMilestoneCount > 400)
+            BlockBiome.SetBlockSprite(stoneBiome);
+        if (movement.speedMilestoneCount > 700)
+            BlockBiome.SetBlockSprite(castleBiome);
+        if (movement.speedMilestoneCount > 1100)
+            BlockBiome.SetBlockSprite(corruptionBiome);
 
         heightChange = transform.position.y + Random.Range(maxHeightChange, -maxHeightChange);
 
-        if(heightChange > maxHeight)
+        if (heightChange > maxHeight)
         {
             heightChange = maxHeight;
-        }else if (heightChange < minHeight) {
+        } else if (heightChange < minHeight) {
             heightChange = minHeight;
         }
 
+        
+        if(Random.Range(0f, 100f) < randomSpike)
+        {
+            float spikeXPosition = Random.Range(-platforms[platformSelector].width / 2f + 1f, platforms[platformSelector].width / 2f - 1f);
+
+            Vector3 spikePosition = new Vector3(spikeXPosition, 0.5f, 0f);
+
+            Instantiate(spike, transform.position + spikePosition, Quaternion.identity);
+        }
+        
+
         distancBetween = Random.Range(distanceBetweenMin, distanceBetweenMax);
 
-        platformSelector = Random.Range(0, thePlatforms.Length);
+        Debug.Log(movement.speedMilestoneCount);
         
-        Instantiate(thePlatforms[platformSelector], transform.position, transform.rotation);
+        platformSelector = Random.Range(0, thePlatformsGrass.Length);
+        Instantiate(thePlatformsGrass[platformSelector], transform.position, transform.rotation);
+        
     }
+}
+
+struct Platforms
+{
+    public GameObject platform;
+    public float width;
+}
+
+[System.Serializable]
+struct Biome
+{
+    [SerializeField]
+    public Sprite middleBlock, leftBlock, rightBlock;
+
 }

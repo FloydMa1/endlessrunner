@@ -1,0 +1,2134 @@
+fileFormatVersion: 2
+guid: 2242f6547f50b55479f0c99fefa5f95b
+timeCreated: 1506425537
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_ground_0
+    21300002: spritesheet_ground_1
+    21300004: spritesheet_ground_2
+    21300006: spritesheet_ground_3
+    21300008: spritesheet_ground_4
+    21300010: spritesheet_ground_5
+    21300012: spritesheet_ground_6
+    21300014: spritesheet_ground_7
+    21300016: spritesheet_ground_8
+    21300018: spritesheet_ground_9
+    21300020: spritesheet_ground_10
+    21300022: spritesheet_ground_11
+    21300024: spritesheet_ground_12
+    21300026: spritesheet_ground_13
+    21300028: spritesheet_ground_14
+    21300030: spritesheet_ground_15
+    21300032: spritesheet_ground_16
+    21300034: spritesheet_ground_17
+    21300036: spritesheet_ground_18
+    21300038: spritesheet_ground_19
+    21300040: spritesheet_ground_20
+    21300042: spritesheet_ground_21
+    21300044: spritesheet_ground_22
+    21300046: spritesheet_ground_23
+    21300048: spritesheet_ground_24
+    21300050: spritesheet_ground_25
+    21300052: spritesheet_ground_26
+    21300054: spritesheet_ground_27
+    21300056: spritesheet_ground_28
+    21300058: spritesheet_ground_29
+    21300060: spritesheet_ground_30
+    21300062: spritesheet_ground_31
+    21300064: spritesheet_ground_32
+    21300066: spritesheet_ground_33
+    21300068: spritesheet_ground_34
+    21300070: spritesheet_ground_35
+    21300072: spritesheet_ground_36
+    21300074: spritesheet_ground_37
+    21300076: spritesheet_ground_38
+    21300078: spritesheet_ground_39
+    21300080: spritesheet_ground_40
+    21300082: spritesheet_ground_41
+    21300084: spritesheet_ground_42
+    21300086: spritesheet_ground_43
+    21300088: spritesheet_ground_44
+    21300090: spritesheet_ground_45
+    21300092: spritesheet_ground_46
+    21300094: spritesheet_ground_47
+    21300096: spritesheet_ground_48
+    21300098: spritesheet_ground_49
+    21300100: spritesheet_ground_50
+    21300102: spritesheet_ground_51
+    21300104: spritesheet_ground_52
+    21300106: spritesheet_ground_53
+    21300108: spritesheet_ground_54
+    21300110: spritesheet_ground_55
+    21300112: spritesheet_ground_56
+    21300114: spritesheet_ground_57
+    21300116: spritesheet_ground_58
+    21300118: spritesheet_ground_59
+    21300120: spritesheet_ground_60
+    21300122: spritesheet_ground_61
+    21300124: spritesheet_ground_62
+    21300126: spritesheet_ground_63
+    21300128: spritesheet_ground_64
+    21300130: spritesheet_ground_65
+    21300132: spritesheet_ground_66
+    21300134: spritesheet_ground_67
+    21300136: spritesheet_ground_68
+    21300138: spritesheet_ground_69
+    21300140: spritesheet_ground_70
+    21300142: spritesheet_ground_71
+    21300144: spritesheet_ground_72
+    21300146: spritesheet_ground_73
+    21300148: spritesheet_ground_74
+    21300150: spritesheet_ground_75
+    21300152: spritesheet_ground_76
+    21300154: spritesheet_ground_77
+    21300156: spritesheet_ground_78
+    21300158: spritesheet_ground_79
+    21300160: spritesheet_ground_80
+    21300162: spritesheet_ground_81
+    21300164: spritesheet_ground_82
+    21300166: spritesheet_ground_83
+    21300168: spritesheet_ground_84
+    21300170: spritesheet_ground_85
+    21300172: spritesheet_ground_86
+    21300174: spritesheet_ground_87
+    21300176: spritesheet_ground_88
+    21300178: spritesheet_ground_89
+    21300180: spritesheet_ground_90
+    21300182: spritesheet_ground_91
+    21300184: spritesheet_ground_92
+    21300186: spritesheet_ground_93
+    21300188: spritesheet_ground_94
+    21300190: spritesheet_ground_95
+    21300192: spritesheet_ground_96
+    21300194: spritesheet_ground_97
+    21300196: spritesheet_ground_98
+    21300198: spritesheet_ground_99
+    21300200: spritesheet_ground_100
+    21300202: spritesheet_ground_101
+    21300204: spritesheet_ground_102
+    21300206: spritesheet_ground_103
+    21300208: spritesheet_ground_104
+    21300210: spritesheet_ground_105
+    21300212: spritesheet_ground_106
+    21300214: spritesheet_ground_107
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_ground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1920
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1664
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1408
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_67
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_69
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_75
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_76
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_81
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_86
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_87
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_88
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_89
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_99
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_101
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_106
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet_ground_107
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -378, y: -1024}
+      - {x: -376, y: -1022}
+      - {x: -337, y: -996}
+      - {x: -329, y: -990}
+      - {x: -325, y: -989}
+      - {x: -323, y: -987}
+      - {x: -305, y: -975}
+      - {x: -304, y: -974}
+      - {x: -300, y: -974}
+      - {x: -298, y: -972}
+      - {x: -298, y: -970}
+      - {x: -296, y: -969}
+      - {x: -266, y: -949}
+      - {x: -258, y: -943}
+      - {x: -258, y: -1024}
+      - {x: -237, y: -1024}
+      - {x: -225, y: -1023}
+      - {x: -224, y: -1022}
+      - {x: -220, y: -1022}
+      - {x: -219, y: -1021}
+      - {x: -215, y: -1021}
+      - {x: -214, y: -1020}
+      - {x: -212, y: -1022}
+      - {x: -208, y: -1022}
+      - {x: -205, y: -1018}
+      - {x: -202, y: -1018}
+      - {x: -198, y: -1016}
+      - {x: -195, y: -1016}
+      - {x: -192, y: -1014}
+      - {x: -187, y: -1013}
+      - {x: -184, y: -1011}
+      - {x: -182, y: -1011}
+      - {x: -177, y: -1008}
+      - {x: -173, y: -1007}
+      - {x: -170, y: -1005}
+      - {x: -165, y: -1003}
+      - {x: -163, y: -1001}
+      - {x: -160, y: -1000}
+      - {x: -158, y: -997}
+      - {x: -157, y: -997}
+      - {x: -153, y: -993}
+      - {x: -152, y: -993}
+      - {x: -143, y: -984}
+      - {x: -143, y: -983}
+      - {x: -139, y: -979}
+      - {x: -139, y: -978}
+      - {x: -135, y: -974}
+      - {x: -130, y: -963}
+      - {x: -130, y: -961}
+      - {x: -130, y: -1024}
+      - {x: 2, y: -1024}
+      - {x: 2, y: -966}
+      - {x: 4, y: -969}
+      - {x: 9, y: -971}
+      - {x: 12, y: -971}
+      - {x: 13, y: -972}
+      - {x: 243, y: -972}
+      - {x: 244, y: -971}
+      - {x: 247, y: -971}
+      - {x: 252, y: -969}
+      - {x: 256, y: -964}
+      - {x: 257, y: -960}
+      - {x: 258, y: -959}
+      - {x: 258, y: -906}
+      - {x: 256, y: -901}
+      - {x: 256, y: -898}
+      - {x: 258, y: -896}
+      - {x: 258, y: -895}
+      - {x: 133, y: -770}
+      - {x: 256, y: -770}
+      - {x: 258, y: -768}
+      - {x: 258, y: -508}
+      - {x: 261, y: -512}
+      - {x: 266, y: -514}
+      - {x: 374, y: -514}
+      - {x: 379, y: -512}
+      - {x: 385, y: -505}
+      - {x: 386, y: -502}
+      - {x: 386, y: -394}
+      - {x: 384, y: -389}
+      - {x: 384, y: -386}
+      - {x: 386, y: -384}
+      - {x: 386, y: -256}
+      - {x: 384, y: -254}
+      - {x: 380, y: -254}
+      - {x: 384, y: -252}
+      - {x: 385, y: -247}
+      - {x: 386, y: -246}
+      - {x: 386, y: -138}
+      - {x: 384, y: -133}
+      - {x: 379, y: -128}
+      - {x: 374, y: -126}
+      - {x: 260, y: -126}
+      - {x: 258, y: -128}
+      - {x: 258, y: -131}
+      - {x: 256, y: -135}
+      - {x: 256, y: -130}
+      - {x: 258, y: -128}
+      - {x: 258, y: -47}
+      - {x: 260, y: -49}
+      - {x: 278, y: -61}
+      - {x: 279, y: -61}
+      - {x: 286, y: -66}
+      - {x: 286, y: -68}
+      - {x: 288, y: -70}
+      - {x: 292, y: -70}
+      - {x: 296, y: -73}
+      - {x: 297, y: -73}
+      - {x: 305, y: -79}
+      - {x: 307, y: -80}
+      - {x: 373, y: -124}
+      - {x: 374, y: -124}
+      - {x: 382, y: -130}
+      - {x: 384, y: -130}
+      - {x: 386, y: -128}
+      - {x: 386, y: 0}
+      - {x: 384, y: 2}
+      - {x: 266, y: 2}
+      - {x: 261, y: 0}
+      - {x: 258, y: -2}
+      - {x: 261, y: 0}
+      - {x: 264, y: 1}
+      - {x: 266, y: 3}
+      - {x: 317, y: 37}
+      - {x: 319, y: 39}
+      - {x: 320, y: 39}
+      - {x: 322, y: 41}
+      - {x: 323, y: 41}
+      - {x: 325, y: 43}
+      - {x: 326, y: 43}
+      - {x: 328, y: 45}
+      - {x: 329, y: 45}
+      - {x: 331, y: 47}
+      - {x: 332, y: 47}
+      - {x: 334, y: 49}
+      - {x: 335, y: 49}
+      - {x: 337, y: 51}
+      - {x: 338, y: 51}
+      - {x: 340, y: 53}
+      - {x: 341, y: 53}
+      - {x: 343, y: 55}
+      - {x: 344, y: 55}
+      - {x: 346, y: 57}
+      - {x: 347, y: 57}
+      - {x: 349, y: 59}
+      - {x: 350, y: 59}
+      - {x: 352, y: 61}
+      - {x: 353, y: 61}
+      - {x: 355, y: 63}
+      - {x: 356, y: 63}
+      - {x: 358, y: 65}
+      - {x: 359, y: 65}
+      - {x: 361, y: 67}
+      - {x: 362, y: 67}
+      - {x: 364, y: 69}
+      - {x: 365, y: 69}
+      - {x: 367, y: 71}
+      - {x: 368, y: 71}
+      - {x: 370, y: 73}
+      - {x: 371, y: 73}
+      - {x: 373, y: 75}
+      - {x: 374, y: 75}
+      - {x: 377, y: 77}
+      - {x: 386, y: 84}
+      - {x: 386, y: 118}
+      - {x: 384, y: 123}
+      - {x: 384, y: 126}
+      - {x: 386, y: 128}
+      - {x: 386, y: 256}
+      - {x: 384, y: 258}
+      - {x: 288, y: 258}
+      - {x: 292, y: 258}
+      - {x: 293, y: 259}
+      - {x: 297, y: 259}
+      - {x: 298, y: 260}
+      - {x: 300, y: 258}
+      - {x: 304, y: 258}
+      - {x: 307, y: 262}
+      - {x: 310, y: 262}
+      - {x: 314, y: 264}
+      - {x: 317, y: 264}
+      - {x: 320, y: 266}
+      - {x: 325, y: 267}
+      - {x: 328, y: 269}
+      - {x: 330, y: 269}
+      - {x: 335, y: 272}
+      - {x: 339, y: 273}
+      - {x: 342, y: 275}
+      - {x: 347, y: 277}
+      - {x: 349, y: 279}
+      - {x: 352, y: 281}
+      - {x: 356, y: 283}
+      - {x: 359, y: 287}
+      - {x: 360, y: 287}
+      - {x: 369, y: 296}
+      - {x: 369, y: 297}
+      - {x: 373, y: 301}
+      - {x: 373, y: 302}
+      - {x: 377, y: 306}
+      - {x: 382, y: 317}
+      - {x: 382, y: 319}
+      - {x: 384, y: 323}
+      - {x: 384, y: 326}
+      - {x: 385, y: 327}
+      - {x: 385, y: 331}
+      - {x: 386, y: 332}
+      - {x: 386, y: 374}
+      - {x: 384, y: 379}
+      - {x: 384, y: 382}
+      - {x: 386, y: 384}
+      - {x: 386, y: 640}
+      - {x: 384, y: 642}
+      - {x: 258, y: 642}
+      - {x: 258, y: 698}
+      - {x: 262, y: 694}
+      - {x: 265, y: 693}
+      - {x: 268, y: 693}
+      - {x: 269, y: 692}
+      - {x: 371, y: 692}
+      - {x: 372, y: 693}
+      - {x: 375, y: 693}
+      - {x: 380, y: 695}
+      - {x: 384, y: 700}
+      - {x: 385, y: 704}
+      - {x: 386, y: 705}
+      - {x: 386, y: 758}
+      - {x: 384, y: 763}
+      - {x: 379, y: 768}
+      - {x: 374, y: 770}
+      - {x: 266, y: 770}
+      - {x: 261, y: 768}
+      - {x: 258, y: 764}
+      - {x: 258, y: 826}
+      - {x: 260, y: 823}
+      - {x: 265, y: 821}
+      - {x: 268, y: 821}
+      - {x: 269, y: 820}
+      - {x: 384, y: 820}
+      - {x: 386, y: 822}
+      - {x: 386, y: 896}
+      - {x: 384, y: 898}
+      - {x: 260, y: 898}
+      - {x: 258, y: 896}
+      - {x: 256, y: 898}
+      - {x: 130, y: 898}
+      - {x: 130, y: 954}
+      - {x: 134, y: 950}
+      - {x: 137, y: 949}
+      - {x: 140, y: 949}
+      - {x: 141, y: 948}
+      - {x: 243, y: 948}
+      - {x: 244, y: 949}
+      - {x: 247, y: 949}
+      - {x: 250, y: 950}
+      - {x: 254, y: 954}
+      - {x: 254, y: 950}
+      - {x: 256, y: 948}
+      - {x: 384, y: 948}
+      - {x: 386, y: 950}
+      - {x: 386, y: 1024}
+      - {x: 254, y: 1024}
+      - {x: 254, y: 1020}
+      - {x: 251, y: 1024}
+      - {x: -386, y: 1024}
+      - {x: -386, y: 1020}
+      - {x: -389, y: 1024}
+      - {x: -512, y: 1024}
+      - {x: -512, y: 766}
+      - {x: -510, y: 764}
+      - {x: -512, y: 762}
+      - {x: -512, y: 646}
+      - {x: -509, y: 641}
+      - {x: -502, y: 638}
+      - {x: -389, y: 638}
+      - {x: -512, y: 515}
+      - {x: -512, y: 308}
+      - {x: -397, y: 308}
+      - {x: -396, y: 309}
+      - {x: -391, y: 310}
+      - {x: -384, y: 315}
+      - {x: -383, y: 320}
+      - {x: -382, y: 321}
+      - {x: -382, y: 374}
+      - {x: -384, y: 379}
+      - {x: -384, y: 382}
+      - {x: -382, y: 384}
+      - {x: -382, y: 385}
+      - {x: -507, y: 510}
+      - {x: -382, y: 510}
+      - {x: -382, y: 508}
+      - {x: -384, y: 507}
+      - {x: -386, y: 502}
+      - {x: -386, y: 394}
+      - {x: -383, y: 387}
+      - {x: -381, y: 385}
+      - {x: -374, y: 382}
+      - {x: -261, y: 382}
+      - {x: -385, y: 258}
+      - {x: -512, y: 258}
+      - {x: -512, y: 180}
+      - {x: -386, y: 180}
+      - {x: -386, y: 130}
+      - {x: -508, y: 130}
+      - {x: -510, y: 128}
+      - {x: -510, y: 124}
+      - {x: -512, y: 122}
+      - {x: -512, y: 59}
+      - {x: -508, y: 55}
+      - {x: -503, y: 53}
+      - {x: -500, y: 53}
+      - {x: -499, y: 52}
+      - {x: -270, y: 52}
+      - {x: -269, y: 53}
+      - {x: -263, y: 54}
+      - {x: -256, y: 59}
+      - {x: -255, y: 64}
+      - {x: -254, y: 65}
+      - {x: -254, y: 118}
+      - {x: -256, y: 123}
+      - {x: -256, y: 126}
+      - {x: -254, y: 128}
+      - {x: -254, y: 129}
+      - {x: -379, y: 254}
+      - {x: -254, y: 254}
+      - {x: -254, y: 252}
+      - {x: -256, y: 251}
+      - {x: -258, y: 246}
+      - {x: -258, y: 138}
+      - {x: -253, y: 129}
+      - {x: -246, y: 126}
+      - {x: -133, y: 126}
+      - {x: -257, y: 2}
+      - {x: -384, y: 2}
+      - {x: -386, y: 0}
+      - {x: -386, y: -4}
+      - {x: -389, y: 0}
+      - {x: -394, y: 2}
+      - {x: -502, y: 2}
+      - {x: -507, y: 0}
+      - {x: -512, y: -5}
+      - {x: -512, y: -69}
+      - {x: -508, y: -72}
+      - {x: -507, y: -72}
+      - {x: -503, y: -75}
+      - {x: -500, y: -75}
+      - {x: -499, y: -76}
+      - {x: -397, y: -76}
+      - {x: -396, y: -75}
+      - {x: -391, y: -74}
+      - {x: -386, y: -70}
+      - {x: -386, y: -74}
+      - {x: -384, y: -76}
+      - {x: -258, y: -76}
+      - {x: -258, y: -126}
+      - {x: -380, y: -126}
+      - {x: -382, y: -128}
+      - {x: -384, y: -126}
+      - {x: -512, y: -126}
+      - {x: -512, y: -514}
+      - {x: -508, y: -514}
+      - {x: -512, y: -517}
+      - {x: -512, y: -573}
+      - {x: -511, y: -574}
+      - {x: -510, y: -579}
+      - {x: -505, y: -590}
+      - {x: -502, y: -593}
+      - {x: -502, y: -596}
+      - {x: -500, y: -598}
+      - {x: -498, y: -598}
+      - {x: -497, y: -600}
+      - {x: -488, y: -609}
+      - {x: -487, y: -609}
+      - {x: -483, y: -613}
+      - {x: -482, y: -613}
+      - {x: -474, y: -619}
+      - {x: -469, y: -621}
+      - {x: -465, y: -624}
+      - {x: -463, y: -624}
+      - {x: -458, y: -627}
+      - {x: -456, y: -627}
+      - {x: -453, y: -629}
+      - {x: -450, y: -630}
+      - {x: -448, y: -630}
+      - {x: -447, y: -631}
+      - {x: -445, y: -631}
+      - {x: -441, y: -633}
+      - {x: -438, y: -633}
+      - {x: -434, y: -635}
+      - {x: -430, y: -635}
+      - {x: -429, y: -636}
+      - {x: -426, y: -636}
+      - {x: -425, y: -637}
+      - {x: -416, y: -638}
+      - {x: -512, y: -638}
+      - {x: -512, y: -770}
+      - {x: -510, y: -770}
+      - {x: -507, y: -768}
+      - {x: -499, y: -762}
+      - {x: -495, y: -761}
+      - {x: -491, y: -757}
+      - {x: -490, y: -757}
+      - {x: -488, y: -755}
+      - {x: -487, y: -755}
+      - {x: -485, y: -753}
+      - {x: -484, y: -753}
+      - {x: -482, y: -751}
+      - {x: -481, y: -751}
+      - {x: -479, y: -749}
+      - {x: -478, y: -749}
+      - {x: -476, y: -747}
+      - {x: -475, y: -747}
+      - {x: -472, y: -745}
+      - {x: -464, y: -739}
+      - {x: -460, y: -738}
+      - {x: -458, y: -737}
+      - {x: -457, y: -735}
+      - {x: -456, y: -734}
+      - {x: -452, y: -734}
+      - {x: -450, y: -732}
+      - {x: -450, y: -730}
+      - {x: -448, y: -729}
+      - {x: -446, y: -727}
+      - {x: -445, y: -727}
+      - {x: -443, y: -725}
+      - {x: -442, y: -725}
+      - {x: -440, y: -723}
+      - {x: -439, y: -723}
+      - {x: -437, y: -721}
+      - {x: -436, y: -721}
+      - {x: -434, y: -719}
+      - {x: -433, y: -719}
+      - {x: -431, y: -717}
+      - {x: -430, y: -717}
+      - {x: -428, y: -715}
+      - {x: -427, y: -715}
+      - {x: -425, y: -713}
+      - {x: -424, y: -713}
+      - {x: -422, y: -711}
+      - {x: -421, y: -711}
+      - {x: -419, y: -709}
+      - {x: -418, y: -709}
+      - {x: -416, y: -707}
+      - {x: -415, y: -707}
+      - {x: -413, y: -705}
+      - {x: -412, y: -705}
+      - {x: -410, y: -703}
+      - {x: -409, y: -703}
+      - {x: -407, y: -701}
+      - {x: -406, y: -701}
+      - {x: -404, y: -699}
+      - {x: -403, y: -699}
+      - {x: -401, y: -697}
+      - {x: -400, y: -697}
+      - {x: -398, y: -695}
+      - {x: -397, y: -695}
+      - {x: -394, y: -693}
+      - {x: -386, y: -687}
+      - {x: -386, y: -766}
+      - {x: -502, y: -766}
+      - {x: -507, y: -768}
+      - {x: -512, y: -773}
+      - {x: -512, y: -814}
+      - {x: -508, y: -817}
+      - {x: -505, y: -819}
+      - {x: -504, y: -819}
+      - {x: -502, y: -821}
+      - {x: -501, y: -821}
+      - {x: -499, y: -823}
+      - {x: -498, y: -823}
+      - {x: -496, y: -825}
+      - {x: -494, y: -826}
+      - {x: -494, y: -828}
+      - {x: -492, y: -830}
+      - {x: -488, y: -830}
+      - {x: -484, y: -833}
+      - {x: -483, y: -833}
+      - {x: -481, y: -835}
+      - {x: -480, y: -835}
+      - {x: -478, y: -837}
+      - {x: -477, y: -837}
+      - {x: -475, y: -839}
+      - {x: -474, y: -839}
+      - {x: -472, y: -841}
+      - {x: -471, y: -841}
+      - {x: -469, y: -843}
+      - {x: -468, y: -843}
+      - {x: -466, y: -845}
+      - {x: -465, y: -845}
+      - {x: -463, y: -847}
+      - {x: -462, y: -847}
+      - {x: -460, y: -849}
+      - {x: -459, y: -849}
+      - {x: -457, y: -851}
+      - {x: -456, y: -851}
+      - {x: -454, y: -853}
+      - {x: -453, y: -853}
+      - {x: -451, y: -855}
+      - {x: -450, y: -855}
+      - {x: -448, y: -857}
+      - {x: -447, y: -857}
+      - {x: -439, y: -863}
+      - {x: -437, y: -864}
+      - {x: -434, y: -866}
+      - {x: -433, y: -866}
+      - {x: -431, y: -868}
+      - {x: -430, y: -868}
+      - {x: -428, y: -870}
+      - {x: -427, y: -870}
+      - {x: -425, y: -872}
+      - {x: -424, y: -872}
+      - {x: -422, y: -874}
+      - {x: -421, y: -874}
+      - {x: -419, y: -876}
+      - {x: -418, y: -876}
+      - {x: -416, y: -878}
+      - {x: -415, y: -878}
+      - {x: -413, y: -880}
+      - {x: -412, y: -880}
+      - {x: -410, y: -882}
+      - {x: -409, y: -882}
+      - {x: -407, y: -884}
+      - {x: -406, y: -884}
+      - {x: -404, y: -886}
+      - {x: -403, y: -886}
+      - {x: -401, y: -888}
+      - {x: -400, y: -888}
+      - {x: -398, y: -890}
+      - {x: -397, y: -890}
+      - {x: -393, y: -894}
+      - {x: -389, y: -896}
+      - {x: -386, y: -898}
+      - {x: -386, y: -900}
+      - {x: -389, y: -896}
+      - {x: -394, y: -894}
+      - {x: -502, y: -894}
+      - {x: -509, y: -897}
+      - {x: -511, y: -900}
+      - {x: -511, y: -901}
+      - {x: -512, y: -902}
+      - {x: -512, y: -1018}
+      - {x: -511, y: -1021}
+      - {x: -509, y: -1023}
+      - {x: -506, y: -1024}
+      - {x: -390, y: -1024}
+      - {x: -386, y: -1021}
+      - {x: -386, y: -1024}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

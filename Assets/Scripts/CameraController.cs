@@ -10,6 +10,7 @@ public class CameraController : MonoBehaviour {
     private Vector3 lastPlayerPosition;
     private float distanceToMove;
     
+    
 	void Start () {
         lastPlayerPosition = thePlayer.transform.position;
     }
