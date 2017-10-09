@@ -7,6 +7,7 @@ public class PlatformGenerator : MonoBehaviour
     [SerializeField] private GameObject thePlatform;
     [SerializeField] private Biome stoneBiome, castleBiome, corruptionBiome, snowDirtBiome;
     [SerializeField] private Transform generationPoint;
+
     [SerializeField] private float distancBetween;
     [SerializeField] private float distanceBetweenMin;
     [SerializeField] private float distanceBetweenMax;
@@ -17,7 +18,6 @@ public class PlatformGenerator : MonoBehaviour
     [SerializeField] private GameObject[] thePlatformsGrass;
    
     private int platformSelector;
-    //private float platformWidth;
     private Platforms[] platforms;
 
     private float minHeight;
@@ -40,7 +40,7 @@ public class PlatformGenerator : MonoBehaviour
         movement = player.GetComponent<playerMovement>();
 
 
-        platforms = new Platforms[thePlatformsGrass.Length];// = new float[thePlatformsGrass.Length];
+        platforms = new Platforms[thePlatformsGrass.Length];
 
         for (int i = 0; i < thePlatformsGrass.Length; i++)
         {
@@ -81,7 +81,7 @@ public class PlatformGenerator : MonoBehaviour
         
         if(Random.Range(0f, 100f) < randomSpike)
         {
-            float spikeXPosition = Random.Range(-platforms[platformSelector].width / 2f + 1f, platforms[platformSelector].width / 2f - 1f);
+            float spikeXPosition = Random.Range(-platforms[platformSelector].width / 2 + 1, platforms[platformSelector].width / 2 - 1);
 
             Vector3 spikePosition = new Vector3(spikeXPosition, 0.5f, 0f);
 

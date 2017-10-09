@@ -18,8 +18,6 @@ public class playerMovement : MonoBehaviour
     private float jumpCount = 1;
     private bool canDoubleJump;
     private bool stoppedJumping;
-   // private bool isGrounded;
-    //[SerializeField]private LayerMask whatIsGround
 
     private Animator anim;
 
@@ -32,7 +30,7 @@ public class playerMovement : MonoBehaviour
         canDoubleJump = false;
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (transform.position.x > speedMilestoneCount)
         {
