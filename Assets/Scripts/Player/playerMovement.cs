@@ -51,16 +51,12 @@ public class playerMovement : MonoBehaviour
         {
             if (CanJump())
             {
-                rigid.velocity = new Vector2(rigid.velocity.x, jumpPower);
-                stoppedJumping = false;
-                jumpCount = 0;
+                Jump();
             }
 
             if (!CanJump() && canDoubleJump && jumpCount == 0)
             {
-                rigid.velocity = new Vector2(rigid.velocity.x, jumpPower);
-                stoppedJumping = false;
-                canDoubleJump = false;
+                Jump();
                 jumpCount = 1;
             }
         }
@@ -79,5 +75,12 @@ public class playerMovement : MonoBehaviour
     {
         canDoubleJump = true;
         return Physics2D.Raycast(collisionPoint.position, Vector2.down, 0);
+    }
+
+    void Jump()
+    {
+        rigid.velocity = new Vector2(rigid.velocity.x, jumpPower);
+        stoppedJumping = false;
+        jumpCount = 0;
     }
 }
